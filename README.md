@@ -1,7 +1,7 @@
 <div align="center">
   The Python teacher created this exercises to reinforce the knowledge
 </div>
-<br />
+
 ![GitStyle](https://git-style.vercel.app/api/anonymousRecords/animation?theme=hair&quality=low&color=%233d2817&curliness=straight)
 
 1. Peça a idade de uma pessoa e diga:
